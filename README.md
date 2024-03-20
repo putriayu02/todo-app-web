@@ -1,5 +1,5 @@
-# Tugas (Ganti Nama Tugas)
+# Tugas Pemrograman Web 2 (Tugas 1
 <ul>
-  <li>Tugas: {Nama Tugas}</li>
-  <li>Nama: {Nama}</li>
+  <li>Tugas: Latihan Todo App</li>
+  <li>Nama: {Putri Ayu Ningtias}</li>
 </ul>
